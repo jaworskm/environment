@@ -7,7 +7,7 @@
 	"disallowCurlyBraces": [],
 	"disallowDanglingUnderscores": false,
 	"disallowEmptyBlocks": false,
-	"disallowFunctionDeclarations": true,
+	"disallowFunctionDeclarations": false,
 	"disallowIdenticalDestructuringNames": true,
 	"disallowIdentifierNames": ["that"],
 	"disallowImplicitTypeConversion": [],
@@ -118,7 +118,7 @@
 	"requireDotNotation": { 
 		"allExcept": ["snake_case"] 
 	},
-	"requireEarlyReturn": true,
+	"requireEarlyReturn": false,
 	"requireEnhancedObjectLiterals": true,
 	"requireFunctionDeclarations": false,
 	"requireImportAlphabetized": false,
@@ -159,7 +159,7 @@
 	"requireShorthandArrowFunctions": false,
 	"requireSpaceAfterBinaryOperators": true,
 	"requireSpaceAfterComma": true,
-	"requireSpaceAfterKeywords": true,
+	"requireSpaceAfterKeywords": false,
 	"requireSpaceAfterLineComment": true,
 	"requireSpaceAfterObjectKeys": false,
 	"requireSpaceAfterPrefixUnaryOperators": false,
